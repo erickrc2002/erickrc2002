@@ -1,5 +1,5 @@
 - print('Hello, World!')
-- print('im Erick Rabelo, and my interests are in python language.')
+- print('im Erick Rabelo, and my interests are in all languages.')
 - print('bye, World!')
 - 
 
